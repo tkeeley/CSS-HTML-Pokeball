@@ -1,3 +1,5 @@
+/*-webkit- prefix only in this file. add the proper prefix to work with your browser*/
+
 .ball {
   position: relative;
   width: 300px;
